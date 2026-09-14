@@ -349,7 +349,7 @@ function App() {
 
           {/* Desktop Get Resume Button */}
           <a 
-            href="/src/assets/files/Resume_นายสิรภพ ไขกล.pdf"
+            href="/Resume_นายสิรภพ ไขกล.pdf"
             download="Resume_นายสิรภพ ไขกล.pdf"
             className="hidden md:flex items-center justify-center hover:cursor-pointer bg-[#26838d] text-white pl-5 pr-8 py-2.5 rounded-full hover:bg-[#1a5c63] hover:shadow-lg hover:shadow-[#26838d]/20 transition-all duration-300"
             onMouseEnter={() => setArrowUp(true)}
@@ -403,7 +403,7 @@ function App() {
                 
                 {/* Mobile Get Resume Button */}
                 <a 
-                  href="/src/assets/files/Resume_นายสิรภพ ไขกล.pdf"
+                  href="/Resume_นายสิรภพ ไขกล.pdf"
                   download="Resume_นายสิรภพ ไขกล.pdf"
                   title="Get Resume"
                   className="bg-[#26838d] text-white text-center font-medium px-4 py-3 rounded-xl hover:bg-[#1a5c63] transition-colors flex justify-center items-center space-x-2 cursor-pointer"
